@@ -2,7 +2,7 @@
 ## Konversi CSV ke Parquet
 
 ### 👨‍💻 Disusun oleh
-**Kholid Abdan Syakuro (20123034) dan Risna De Sinta**
+**Kholid Abdan Syakuro (20123034) dan Risna De Sinta (20124122)**
 
 ### 🎯 Tujuan
 Melakukan konversi file CSV menjadi Parquet untuk melihat efisiensi ukuran file menggunakan Python (pandas + pyarrow).
